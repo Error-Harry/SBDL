@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+*.iml
+.idea/workspace.xml
+
+__pycache__/
+*/__pycache__/
+*.pyc
+
